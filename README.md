@@ -6,7 +6,7 @@
 </p>
 
 - 👨‍💻 I’m currently working on [VedaWeb](https://github.com/DH-Cologne/vedaweb), a web-based, open-access platform for linguistic research on old indic texts
-- 🔭 I’m trying to make [java-wegweiser](https://dh-cologne.github.io/java-wegweiser) a useful German-language starting point and learning resource for my Java students at [@DH-Cologne](https://github.com/DH-Cologne)
+- 🔭 I’m trying to make [java-wegweiser](https://dh-cologne.github.io/java-wegweiser) a useful German-language starting point and resource for students learning Java @ [DH-Cologne](https://github.com/DH-Cologne)
 - 🌌 I'm passionate about [diverse](https://github.com/bkis/sprudel) [occasional](https://github.com/bkis/dice-or-die) [personal](https://github.com/bkis/OreBit) [projects](https://github.com/bkis/redojo)
 
 <br>
