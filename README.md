@@ -31,5 +31,5 @@
 </p>
 
 <p align="center">
-<a href="https://stackoverflow.com/bkis" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="bkis" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/7399631/bkis" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="bkis" height="20" width="20" /></a>
 </p>
