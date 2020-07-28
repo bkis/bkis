@@ -1,4 +1,4 @@
-[![Die Idee](img/header.png)](https://bkis.github.io/)
+[![Die Idee](https://raw.githubusercontent.com/bkis/bkis/master/img/header.png)](https://bkis.github.io/)
 
 > _On a sunny morning, I had an idea. &mdash; At noon it was still sunny. &mdash; Not so in the evening._
 
